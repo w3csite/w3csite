@@ -1,8 +1,9 @@
-# Your Project Name
+# Your Name
 
 A brief and catchy description of your project goes here.
 
-## Table of Contents
+## Table of Contents 
+
 
 - [Introduction](#introduction)
 - [Features](#features)
